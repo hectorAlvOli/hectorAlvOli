@@ -1,4 +1,7 @@
 ## BIENVENIDO/A A MI PORTAFOLIO  👋
+
+Hèctor Alvarez Olivier. 
+
 QA MANUAL TESTER | QA DOCUMENTADOR | QA AUTOMATIZADOR JUNIOR 
 
 heje.alol@hotmail.com | LINKEDIN: www.linkedin.com/in/héctor-álvarez123 
@@ -63,7 +66,7 @@ Arquitectura organizada en módulos: configuration.py, data.py, sender_stand_req
 
 Aptitudes: 
 
-Python Postman API testing Test automation Auth token Modular structure 
+Python | Postman | API testing | Test automation | Auth token | Modular structure | 
 Json validation 
 
 
@@ -90,7 +93,7 @@ Resultados destacados:
  Documenté errores funcionales y de interfaz en JIRA.
 
 Aptitudes: 
-Manual testing Test planning Documentation Jira 
+Manual testing | Test planning | Documentation Jira 
 
 
 <img width="1152" height="940" alt="Captura de pantalla 2025-10-27 a la(s) 10 34 25 p m" src="https://github.com/user-attachments/assets/f0d6c8ee-64c8-427f-b991-68c01c9c8ec1" />
@@ -115,11 +118,20 @@ Creé archivos para documentar errores con códigos 400 y 500
 
 Aptitudes: 
 
-Manual testing DataBase SQL 
+Manual testing | DataBase SQL 
 
 
 <img width="947" height="967" alt="Captura de pantalla 2025-09-09 a la(s) 1 12 13 p m" src="https://github.com/user-attachments/assets/51824cc8-425c-4933-b949-1e3366b851a3" />
 <img width="947" height="967" alt="Captura de pantalla 2025-09-11 a la(s) 7 47 43 p m" src="https://github.com/user-attachments/assets/979189af-1193-4434-9cae-4b26af6277d3" />
+
+
+
+
+
+
+
+
+
 
 
 
