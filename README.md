@@ -16,8 +16,10 @@ heje.alol@hotmail.com | LINKEDIN: www.linkedin.com/in/héctor-álvarez123
 5. ¿Hablamos? 
 
 Sobre mí. 
-
-Soy un profesional con formación en Humanidades, y formación profesional en Quality Assurance (QA). Combino habilidades técnicas en pruebas manuales y automatizadas, manejo herramientas como Pytest, Postman y Jira. Tengo experiencia trabajando con documentación de pruebas, SQL y análisis de datos. 
+La búsqueda constante de soluciones e identificación de campos de mejora es lo que me llevó a formarme como QA tester.
+A lo largo de los últimos años me he dedicado a la enseñanza de las humanidades a nivel licenciatura y durante estos años me he percatado de la estrecha relación existente entre las humanidades y las ciencias de la tecnología. A partir de este descubrimiento personal, mi interés por las ciencias de la tecnología incrementó y me motivo a realizar estudios en el campo de quality assurance. Actualmente, estoy concluyendo mis estudios de QA tester en el bootcamp de Tripletent en el cual, he logrado realizar listas de comprobación en Google Sheets, validar campos de formularios mediante la aplicación de pruebas funciónales positivas y negativas, realización de pruebas en aplicaciones móviles mediante API y automatización de pruebas mediante código en GitHub, Pytest y Selenium.  
+Mis años como docente me han permitido desarrollar mis habilidades en resolución de problemas, han desarrollado mi capacidad de análisis y mi paciencia. Por esto, me considero una persona con capacidad de adaptación y con una tendencia al trabajo en equipo. 
+Como una persona que valora el conocimiento y el desarrollo intelectual personal, siempre me encuentro en la constante búsqueda de oportunidades de mejora personal y laboral. Soy un profesional con formación en Humanidades, y formación profesional en Quality Assurance (QA). Combino habilidades técnicas en pruebas manuales y automatizadas, manejo herramientas como Pytest, Postman y Jira. Tengo experiencia trabajando con documentación de pruebas, SQL y análisis de datos. 
 
 MI enfoque esta en ofrecer servicios y productos de alta calidad, colaborar con equipos ágiles y optimizar procesos con pensamiento critico y un alto grado de análisis. 
 
